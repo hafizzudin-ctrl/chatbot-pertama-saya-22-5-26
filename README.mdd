@@ -1,0 +1,19 @@
+# Chatbot Pertama Saya 🤖
+
+Chatbot ringkas yang dibina dengan Python semasa belajar AI.  
+Boleh menjawab soalan seperti "hai", "nama", "umur", "hobi", "solat".  
+Taip 'keluar' untuk berhenti.
+
+## Cara guna
+1. Buka notebook ini di Google Colab atau jalankan sebagai fail `.py`.
+2. Taip soalan dan tekan Enter.
+
+## Apa yang saya belajar?
+- Fungsi dan `return`
+- Struktur `if-elif-else`
+- Gelung `while` dan `break`
+- Input pengguna
+- Debugging asas
+
+## Projek ini sebahagian daripada
+Portfolio belajar AI – langkah pertama menuju kerjaya data.
